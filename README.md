@@ -34,6 +34,7 @@
 
 - 🧠 **[leetcode-solutions](https://github.com/EnigmaNova/leetcode-solutions)** – мои решения задач с LeetCode на Java
 - 🗳️ **[VoteSystem](https://github.com/EnigmaNova/VoteSystem)** – веб-приложение для проведения опросов (Spring Boot + PostgreSQL)
+- 🛠️ **[normalConsoleApps](https://github.com/EnigmaNova/normalConsoleApps)** – консольные Java-приложения с практикой ООП и паттернов проектирования
 
 ---
 
